@@ -7,11 +7,11 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("合并多个Excel")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Excel合并")]
+[assembly: AssemblyDescription("本软件适用于：学校统计学生信息，每个Excel包含一条学生记录，将其合并至一个Excel文件中。")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("张雨铭爸爸")]
-[assembly: AssemblyProduct("合并多个Excel")]
+[assembly: AssemblyProduct("Excel合并")]
 [assembly: AssemblyCopyright("张雨铭爸爸")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -51,5 +51,5 @@ using System.Windows;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
